@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Neo-XXX
+- 👀 I’m interested in ...
+-     - Finding a developer role
+- 🌱 I’m currently learning ...
+-     - Tensorflow, NLP libraries
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+-     - hm3.alfonso@gmail.com
+
+<!---
+Neo-XXX/Neo-XXX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
